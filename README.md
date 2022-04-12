@@ -1,4 +1,3 @@
-### Hi there 👋
-![giphy](https://user-images.githubusercontent.com/94093619/162856710-82702418-1acc-43ce-8822-1c526ed9bdeb.gif)
-
-![669128_ec1c7a78e9694aec8a07c2e48b292ae1_mv2](https://user-images.githubusercontent.com/94093619/162856751-23139b46-7af0-41b6-944c-014c5cb6aebe.gif)
+Hi my name is Crescnencio ![gif-para-saludar](https://user-images.githubusercontent.com/94093619/162856936-dc389d5a-3dec-4aac-b6e9-840ae88f7f04.gif)
+![t-rex](https://user-images.githubusercontent.com/94093619/162856963-f3887236-dbdb-49f6-85bb-4f30b1d2f1ec.gif)
+i ingeenier software 
