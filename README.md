@@ -1,4 +1,4 @@
-<img src="https://i.pinimg.com/originals/20/e9/22/20e92227c9b739044e377b3567cfdac0.gif" width="30">
+<img src="https://i.pinimg.com/originals/20/e9/22/20e92227c9b739044e377b3567cfdac0.gif" width="100%">
 <h2> Hi, I'm Crescencio! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 
 <img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200'>
