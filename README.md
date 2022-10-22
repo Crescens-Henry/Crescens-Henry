@@ -1,17 +1,25 @@
 <h2> Hi, I'm Crescencio! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 
-<img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200'>
+
 
 <p><em>Software Enginner at <a href="https://www.upchiapas.edu.mx/">the Polytechnic University of Chiapas, Mexico</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>
-Conoce mas de mis trabajos en mí <a href="https://crescencs.github.io/portafolio/" target="_blank">Portfaolio Web </a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+
+Conoce mas de mis trabajos en mí <a href="https://crescencs.github.io/portafolio/" target="_blank">Portfaolio Web </a>
 </em></p>
 
+<div>
 
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Crescencs&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
 
-### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
-aqui mas cosas 
----- PROXIMAMENTE ---
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Crescencs&layout=compact&langs_count=7&theme=merko"/>
+</div>
+<h3>Recent Projects:</h3>
 
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
+<img src="https://raw.githubusercontent.com/eqvpkbz/Avatar/master/head.png" align="right" width="350">
 
----
+<div>
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Crescencs&repo=Rick-and-Morty-ApiRest&theme=merko)](https://github.com/Crescencs/Rick-and-Morty-ApiRest)
+  
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Crescencs&repo=portafolio&theme=merko)](https://github.com/Crescencs/portafolio)
+
+</div>
