@@ -18,8 +18,8 @@ Conoce mas de mis trabajos en mí <a href="https://crescencs.github.io/portafoli
 <img src="https://raw.githubusercontent.com/eqvpkbz/Avatar/master/head.png" align="right" width="350">
 
 <div>
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Crescencs&repo=Rick-and-Morty-ApiRest&theme=merko)](https://github.com/Crescencs/Rick-and-Morty-ApiRest)
+
   
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Crescencs&repo=portafolio&theme=merko)](https://github.com/Crescencs/portafolio)
-
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Crescencs&repo=Rick-and-Morty-ApiRest&theme=merko)](https://github.com/Crescencs/Rick-and-Morty-ApiRest)
 </div>
