@@ -20,8 +20,16 @@ learn more about my work on my<a href="https://crescencs.github.io/portafolio/" 
 
 <h3>Recent Projects:</h3>
 
-<img src="https://raw.githubusercontent.com/eqvpkbz/Avatar/master/head.png" align="right" width="350">
+<img src="https://static.wikia.nocookie.net/dandadan/images/1/1f/Okarun_Infobox.png/revision/latest?cb=20221005193525" align="right" width="350">
 
+<!--https://static.wikia.nocookie.net/dandadan/images/1/1f/Okarun_Infobox.png/revision/latest?cb=20221005193525-->
+
+<!--https://vainkeurz.com/wp-content/uploads/2021/10/chel.png-->
+
+<!--https://static.wikia.nocookie.net/jujutsu-kaisen/images/c/cc/Yuta_volunteers_to_enter_a_colony_first.png/revision/latest/scale-to-width-down/214?cb=20220221204804-->
+<!--https://static.wikia.nocookie.net/fridaynightfunking/images/f/ff/DenjiIdle.gif/revision/latest?cb=20220529030344-->
+
+<!--https://ae01.alicdn.com/kf/H2eeed74705a54abe88f0cc271aee8361t/Insignias-de-motosierra-para-hombre-broches-Kawaii-coleccionables-de-Anime-Denji-Makima-Aki-Hayakawa-Power-Pins.png_640x640.png-->
 <div>
 
   
