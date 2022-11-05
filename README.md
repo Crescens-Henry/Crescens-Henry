@@ -14,10 +14,11 @@ learn more about my work on my<a href="https://crescencs.github.io/portafolio/" 
 
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Crescens-Henry&show_icons=true&theme=merko&include_all_commits=true&count_private=true" />
 
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Crescens-Henry&layout=compact&langs_count=7&theme=merko" align="right"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Crescens-Henry&layout=compact&langs_count=7&theme=merko"/>
   
 </div>
 
+<div>
 <h3>Recent Projects:</h3>
 
 <img src="https://static.wikia.nocookie.net/dandadan/images/1/1f/Okarun_Infobox.png/revision/latest?cb=20221005193525" align="right" width="350">
@@ -39,3 +40,4 @@ learn more about my work on my<a href="https://crescencs.github.io/portafolio/" 
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Crescens-Henry&repo=formulario&theme=merko)](https://github.com/Crescencs/formulario)
 </div>
+ </div>
