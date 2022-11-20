@@ -32,7 +32,7 @@ learn more about my work on my<a href="https://crescencs.github.io/portafolio/" 
 <div>
 
   
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Crescens-Henry&repo=e-commerce&theme=merko)](https://github.com/Crescens-Henry/e-commerce)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Crescens-Henry&repo=astronomy-events&theme=merko)](https://github.com/Crescens-Henry/astronomy-events)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Crescens-Henry&repo=Rick-and-Morty-ApiRest&theme=merko)](https://github.com/Crescens-Henry/Rick-and-Morty-ApiRest)
 
