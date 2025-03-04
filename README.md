@@ -16,7 +16,7 @@ src="https://img.shields.io/github/followers/Crescens-Henry?logo=github&style=fo
   <img src="https://www.freepnglogos.com/uploads/rick-and-morty-png/rick-and-morty-transparent-background-background-check-all-9.png" alt="Crescens" align= "right" width="50%" />
   <div align="left">
     <img src="https://github-readme-stats.vercel.app/api?username=Crescens-Henry&show_icons=true&theme=gotham&rank_icon=github" alt="Crescens-Henry's GitHub stats" width="45%"" />
-    <img src="https://github-readme-streak-stats.herokuapp.com/?username=Crescens-Henry&theme=gotham" alt="GitHub Streak Stats" width="45%" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Crescens-Henry&theme=gotham" alt="GitHub Streak Stats" width="45%" />
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Crescens-Henry&layout=compact&theme=gotham" alt="Top Languages" width="40%" />
   </div>
   
